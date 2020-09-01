@@ -15,6 +15,7 @@ Part 3: Intensive care bed occupancy rate evolution
 - lit_rea2018.csv
 - projectcovid19_litrea.py
 - reaAnimated.html
+- reaAnimated.gif
 
 Part 4: Impact of the covid-19 pandemic countermeasures on crime rate
 - projectcovid19_crime_FR.py
